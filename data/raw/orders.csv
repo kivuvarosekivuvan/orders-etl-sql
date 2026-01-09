@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product_name,product_category,quantity,unit_price,amount,city,channel
+ORD-1001,CUST-001,2025-01-05,Wireless Earbuds,Electronics,1,45.00,45.00,Nairobi,web
+ORD-1002,CUST-002,2025-01-06,Running Shoes,Sportswear,2,30.00,60.00,Mombasa,mobile
+ORD-1003,CUST-003,2025-01-08,Coffee Beans 1kg,Grocery,1,18.50,18.50,Kisumu,web
+ORD-1004,CUST-004,2025-01-10,Skin Lotion 400ml,Beauty,3,8.00,24.00,Nakuru,partner
+ORD-1005,CUST-005,2025-01-11,Phone Case,Accessories,2,5.50,11.00,Nairobi,web
+ORD-1006,CUST-006,2025-01-12,Backpack,Accessories,1,25.00,25.00,Eldoret,mobile
+ORD-1007,CUST-007,2025-01-13,Bluetooth Speaker,Electronics,1,55.00,55.00,Nairobi,partner
+ORD-1008,CUST-008,2025-01-14,T-Shirt,Apparel,4,6.00,24.00,Mombasa,web
+ORD-1009,CUST-009,2025-01-15,Notebook,Stationery,2,3.50,7.00,Kisumu,mobile
+ORD-1010,CUST-010,2025-01-16,Water Bottle,Sportswear,1,9.00,9.00,Nakuru,web
+ORD-1010,CUST-010,2025-01-16,Water Bottle,Sportswear,1,9.00,9.00,Nakuru,web
+ORD-1011,CUST-011,,Coffee Beans 1kg,Grocery,1,18.50,18.50,Nairobi,web
+ORD-1012,CUST-012,2025-01-18,Skin Lotion 400ml,,2,8.00,16.00,Nairobi,mobile
+ORD-1013,CUST-013,2025-01-19,Running Shoes,Sportswear,1,30.00,-30.00,Mombasa,web
+ORD-1014,CUST-014,2025-01-20,Wireless Earbuds,Electronics,1,45.00,45.00,Nairobi,web
